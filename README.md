@@ -1,0 +1,2 @@
+# Movie-Recommendation-System-using-NLP
+Using natural language processing to apply data cleaning and exploratory data analysis techniques to transcripts of multiple movies. Identify similarities and differences in dialogue style, extracting linguistic features like vocabulary, tone, and dialogue structure. Determine if a specific movie exhibits a unique style compared to others. Evaluate findings to ascertain the distinctiveness of the chosen movie's style within the dataset.
